@@ -92,7 +92,7 @@ const Projects = () => {
                   <div className="ad-title m-auto">
                     <h5 className="text-uppercase">Android Devolopment</h5>
                   </div>
-                  <a className="ad-btn" href="view">
+                  <a className="ad-btn" href="www.github.com">
                     View
                   </a>
                 </div>
